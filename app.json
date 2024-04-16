@@ -32,19 +32,19 @@
         "BOT_TOKEN": {
 
             "description": "6731643427:AAF3ll5pKdc3giMkSJ3K0ns7DJDs2WWlXoM"
-
+            "required": true
         },
 
         "API_ID": {
 
             "description": "27498866"
-
+            "required": true
         },
 
         "API_HASH": {
 
             "description": "96fbb6ad2e11ab04e83ca09ef3f42455"
-
+            "required": true
         }
 
     },
