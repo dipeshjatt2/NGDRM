@@ -1,7 +1,7 @@
 
 {
 
-    "name": "narujaat",
+    "name": "NG",
 
     "description": "A Modular telegram bot.",
 
@@ -31,20 +31,20 @@
 
         "BOT_TOKEN": {
 
-            "description": "6731643427:AAF3ll5pKdc3giMkSJ3K0ns7DJDs2WWlXoM"
-            "required": true
+            "description": "6998988456:AAH4Ga6w7hs36PQxrJuSwTB5sKXIZEu4684"
+
         },
 
         "API_ID": {
 
-            "description": "27498866"
-            "required": true
+            "description": "23386496"
+
         },
 
         "API_HASH": {
 
-            "description": "96fbb6ad2e11ab04e83ca09ef3f42455"
-            "required": true
+            "description": "7b474ff5cd496bcb9071beaa863273fc"
+
         }
 
     },
