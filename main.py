@@ -22,7 +22,7 @@ class Config(object):
     for i in range(len(AUTH_USERS)):
         AUTH_USERS[i] = int(AUTH_USERS[i])
 
-    GROUPS = os.environ.get('GROUPS', '-1001993763284').split(',')
+    GROUPS = os.environ.get('GROUPS', '-1002059340064').split(',')
     for i in range(len(GROUPS)):
         GROUPS[i] = int(GROUPS[i])
 
